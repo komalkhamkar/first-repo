@@ -1,2 +1,2 @@
 this is new file
-before 1st commit
+for 1st commit
